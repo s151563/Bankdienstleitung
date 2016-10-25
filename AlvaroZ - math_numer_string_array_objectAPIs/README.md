@@ -1,1 +1,1 @@
-[Das ist meine Präsi](https://github.com/s151563/Bankdienstleitung/blob/master/AlvaroZ%20-%20math_numer_string_array_objectAPIs/slides-deck.html)
+[Das ist meine Präsi](https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/AlvaroZ%20-%20math_numer_string_array_objectAPIs/slides-deck.html#/)
