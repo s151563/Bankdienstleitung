@@ -29,19 +29,18 @@
  </table>
  
 <h1>Gruppenaufgabe</h1>
- RES - Rechnungen Einfach Steuern 
+RES - Rechnungen Einfach Steuern 
  
- Da sich die Internetfiliale der Sparkassen Finanzgruppe noch im Aufbau befindet, wollen wir Ihnen mit dieser Website jetzt schon die      Möglichkeit geben, Ihre Rechnungen einfach und bequem zu steuern. Das bedeutet für Sie, dass Sie Ihre Rechnungen übersichtlich verwalten können, indem Sie Rechnungskontakte oder -gruppen erstellen können. Mit diesen Kontakten können Sie bequem Ihre Rechnungen zuteilen und bezahlen. 
+Da sich die Internetfiliale der Sparkassen Finanzgruppe noch im Aufbau befindet, wollen wir Ihnen mit dieser Website jetzt schon die      Möglichkeit geben, Ihre Rechnungen einfach und bequem zu steuern. Das bedeutet für Sie, dass Sie Ihre Rechnungen übersichtlich verwalten können, indem Sie Rechnungskontakte oder -gruppen erstellen können. Mit diesen Kontakten können Sie bequem Ihre Rechnungen zuteilen und bezahlen. 
 
 Anliegend haben wir hier eine Demoversion für Sie zur Verfügung gestellt, damit Sie einige Funktionen bereits jetzt testen können. 
 
- Funktionen die verwendet wurden: 
+Funktionen die verwendet wurden: 
 - Einloggen durch Datenüberprüfung
 - Kontakte hinzufügen mithilfe von appendChild
 - Rechnungen verwalten (Rechnungen erstellen, Rechnungen bezahlen und Rechnungen übersichtlich anzeigen lassen)
 - Drap and Drop u Rechnungen zu bezhalen
 - Anzeige und Erstellung einer automatisierten Statistik
-
 - Die Seite ist dynamsich aufgebaut  
 
 =============================
