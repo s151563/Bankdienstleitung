@@ -53,7 +53,6 @@ Wissenswertes:
 Nun folgen die einzelenen Links zu unserem Projekt:
 
  <ul>
-   <li><a>Fakten:</a></li>
    <li><a href="https://github.com/s151563/Bankdienstleitung/tree/master/Gruppenaufgabe/aktueller%20Stand">Syntax</a></li>
    <li><a href="https://github.com/sebastiansienel/Gruppe6/tree/master/Gruppenprojekt/Dokumentation">Seite</a></li>
    <li><a href="https://github.com/sebastiansienel/Gruppe6/tree/master/Gruppenprojekt/Dokumentation">Viedeo</a></li>
