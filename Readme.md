@@ -55,6 +55,6 @@ Nun folgen die einzelenen Links zu unserem Projekt:
  <ul>
    <li><a href="https://github.com/s151563/Bankdienstleitung/tree/master/Gruppenaufgabe/aktueller%20Stand">Syntax</a></li>
    <li><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Gruppenaufgabe/aktueller%20Stand/Bankdienstleistung_v1.html">Seite</a></li>
-   <li><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Gruppenaufgabe/Video.html">Viedeo</a></li>
+   <li><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Gruppenaufgabe/Video.html">Video</a></li>
 </ul>
   
