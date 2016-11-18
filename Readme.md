@@ -24,7 +24,7 @@
  
    <tr>
      <td>5) Franz Jelinek</td>
-     <td><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Pr%C3%A4sentationen/FranzJ%20-%20ES6%20Klassen/ES6classes/index.html#/">ES6 Klassen)</a></td>
+     <td><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Pr%C3%A4sentationen/FranzJ%20-%20ES6%20Klassen/ES6classes/index.html#/">ES6 Klassen</a></td>
    </tr>
  </table>
  
@@ -35,20 +35,27 @@ Da sich die Internetfiliale der Sparkassen Finanzgruppe noch im Aufbau befindet,
 
 Anliegend haben wir hier eine Demoversion für Sie zur Verfügung gestellt, damit Sie einige Funktionen bereits jetzt testen können. 
 
-Funktionen die verwendet wurden: 
+Wissenswertes: 
 - Einloggen durch Datenüberprüfung
 - Kontakte hinzufügen mithilfe von appendChild
 - Rechnungen verwalten (Rechnungen erstellen, Rechnungen bezahlen und Rechnungen übersichtlich anzeigen lassen)
-- Drap and Drop u Rechnungen zu bezhalen
+- Drap and Drop u Rechnungen zu bezhalen (Rechnungen werden durch appendChild dargestellt)
 - Anzeige und Erstellung einer automatisierten Statistik
 - Die Seite ist dynamsich aufgebaut  
+- Local Storage
+- Uploadfunktion zur Demoveranschaulichung jedoch ohne Server nicht realisierbar
+- Aktuelle Datumsanzeige
+- Css Animationen
+- HTML-Datei so klein wie möglich gehalten
+- Style und Skript so gut wie möglich in css / js verlagert
 
 =============================
-Wir wünschen Ihnen beim Ausprobieren ein angenehmes Erlebnis.
+Nun folgen die einzelenen Links zu unserem Projekt:
 
  <ul>
    <li><a>Fakten:</a></li>
    <li><a href="https://github.com/s151563/Bankdienstleitung/tree/master/Gruppenaufgabe/aktueller%20Stand">Syntax</a></li>
+   <li><a href="https://github.com/sebastiansienel/Gruppe6/tree/master/Gruppenprojekt/Dokumentation">Seite</a></li>
    <li><a href="https://github.com/sebastiansienel/Gruppe6/tree/master/Gruppenprojekt/Dokumentation">Viedeo</a></li>
 </ul>
   
