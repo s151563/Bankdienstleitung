@@ -59,6 +59,6 @@ Nun folgen die einzelenen Links zu unserem Projekt:
 </ul>
 Die Seite wird aus unerklärlichen Gründen nicht korrekt angezeigt über die GitHub Preview (Datum ist verrutscht). Beim Download der Seiten-Files kann man die Seite jedoch fehlerfrei Lokal aufrufen
 
-Das Video ist leider zu groß und aus unerklärlichen Gründen mussten wir hier den Youtube-Link mit einbinden, um es über einen Link erreichbar zu machen (Das man es direkt öffnen kann). Das Original liegt im Ordner Gruppenaufgabe und kann durch einen Download über die dazugehörige Video.html geöffnet werden.
+Das Video ist leider zu groß und aus unerklärlichen Gründen kann man es nicht öffnen. Das Original liegt im Ordner Gruppenaufgabe und kann durch einen Download über die dazugehörige Video.html geöffnet werden.
 
   
