@@ -55,10 +55,10 @@ Nun folgen die einzelenen Links zu unserem Projekt:
  <ul>
    <li><a href="https://github.com/s151563/Bankdienstleitung/tree/master/Gruppenaufgabe/aktueller%20Stand">Syntax</a></li>
    <li><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Gruppenaufgabe/aktueller%20Stand/Bankdienstleistung_v1.html">Seite</a></li>
-   <li><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Gruppenaufgabe/Video.html">Video</a></li>
+   <li><a href="https://www.youtube.com/watch?v=8qy68gZNTKg&feature=youtu.be">Video</a></li>
 </ul>
 Die Seite wird aus unerklärlichen Gründen nicht korrekt angezeigt über die GitHub Preview (Datum ist verrutscht). Beim Download der Seiten-Files kann man die Seite jedoch fehlerfrei Lokal aufrufen
 
-Das Video ist leider zu groß und aus unerklärlichen Gründen kann man es nicht öffnen. Das Original liegt im Ordner Gruppenaufgabe und kann durch einen Download über die dazugehörige Video.html geöffnet werden.
+Das Video ist leider zu groß und aus unerklärlichen Gründen kann man es nicht öffnen. Das Original liegt im Ordner Gruppenaufgabe und kann durch einen Download über die dazugehörige Video.html geöffnet werden. Der Link "Video" führt zu Youtube.
 
   
