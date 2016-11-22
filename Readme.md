@@ -4,7 +4,7 @@
 <table>
    <tr>
      <td>1) Sophie Beitner </td>
-     <td><a href="https://htmlpreview.github.io/?https://github.com/s151563/Bankdienstleitung/blob/master/Pr%C3%A4sentationen/SophieB%20-%20letandcons/Pr%C3%A4sentation%20Let%26Const.html#/">letandcons</a></td> 
+     <td><a href="./Pr%C3%A4sentationen/SophieB%20-%20letandcons/Pr%C3%A4sentation%20Let%26Const.html#/">letandcons</a></td> 
    </tr>
    
    <tr>
